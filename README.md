@@ -71,14 +71,6 @@ python main.py
 python final-ui.py
 ```
 
-### API Client
-
-The `julep_client.py` module provides functions to interact with the Julep API. Import and use it in your scripts as needed.
-
-### Tools
-
-Utility functions are available in `tools.py` for common operations.
-
 ---
 
 ## Project Structure
