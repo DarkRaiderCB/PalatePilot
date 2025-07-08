@@ -27,8 +27,8 @@ Framework used: [Julep](https://github.com/julep-ai/julep)
 
 ### Prerequisites
 
-- Python 3.8 or higher
-- [Any other dependencies, e.g., pip, virtualenv]
+- Python 3.12
+- uv package manager (optional, but recommended)
 
 ### Steps
 
@@ -39,7 +39,7 @@ Framework used: [Julep](https://github.com/julep-ai/julep)
    cd PalatePilot
    ```
 
-2. **(Optional) Create a virtual environment:**
+2. **Create a virtual environment:**
 
    ```bash
    python -m venv venv
