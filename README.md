@@ -65,7 +65,7 @@ Framework used: [Julep](https://github.com/julep-ai/julep)
 python main.py
 ```
 
-### Using the UI
+### (OR) If using the UI
 
 ```bash
 python final-ui.py
