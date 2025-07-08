@@ -16,10 +16,9 @@ Framework used: [Julep](https://github.com/julep-ai/julep)
 ## Features
 
 - Modular codebase for easy maintenance and extension
-- Integration with external APIs (e.g., Julep API via `julep_client.py`)
+- Integration with Julep `julep_client.py`
 - Command-line and UI interface (see `main.py` and `final-ui.py` respectively)
-- Utility functions for common tasks (see `tools.py`)
-- [Add more features as relevant to your project]
+- Utility functions as tools (see `tools.py`)
 
 ---
 
